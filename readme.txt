@@ -4,3 +4,5 @@ Git is 是一个免费的软件
 
 Git has a mutable index called stage.
 Git tracks changes of files.
+
+创建一个新分支是快速的。
